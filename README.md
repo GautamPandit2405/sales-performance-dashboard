@@ -43,3 +43,6 @@ and open it using Power BI Desktop.
 The dataset includes transactions that may
 represent returns or cancellations. Revenue
 figures should be interpreted accordingly.
+## Dashboard Preview
+
+![Power BI Sales Dashboard](dashboard-preview.png)
